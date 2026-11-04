@@ -1,0 +1,12 @@
+{
+  "title": "BROS Chicken | Sistema empresarial",
+  "description": "Sistema web empresarial multisede de BROS Chicken para pedidos, salón, cocina, delivery, inventario y administración.",
+  "language": "es",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
